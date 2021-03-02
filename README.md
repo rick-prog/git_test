@@ -1,1 +1,0 @@
-This is rick-prog's first git project
